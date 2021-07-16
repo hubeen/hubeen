@@ -6,23 +6,20 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "*/5 * * * *"
 
-# This command allows us to run the Action automatically from the Actions tab.
-workflow_dispatch:
-
-# The sequence of runs in this workflow:
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      
       - uses: Platane/snk@master
         with:
-          github_user_name: hubeen
-          gif_out_path: dist/hubeen-grid-snake.gif
-          svg_out_path: dist/hubeen-grid-snake.svg
-          
-      - run: git status
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
+          github_user_name: ${{ github.repository_owner }}
+
+          # path of the generated gif file
+          # If left empty, the gif file will not be generated
+          gif_out_path: dist/hubeen-snake.gif
+          svg_out_path: dist/hubeen-snake.svg
