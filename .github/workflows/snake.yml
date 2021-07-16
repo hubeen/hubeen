@@ -5,7 +5,7 @@ name: Snake Animation
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "*/1 * * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -19,6 +19,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/hubeen-snake.svg
 
       # push the content of <build_dir> to a branch
