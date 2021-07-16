@@ -39,8 +39,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # cron job을 실행합니다.
-      - name: Run Cron
-        run: |
-          npm run something
+    
