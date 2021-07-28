@@ -3,7 +3,7 @@
 </br>
 <div align="center" style="width: 300px; height: 150px; object-fit: cover;">
   <img src="https://github-readme-stats.vercel.app/api?username=hubeen&show_icons=true&theme=cobalt&border_radius=15"></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubeen&layout=compact&border_radius=15&card_width=445">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubeen&layout=compact&border_radius=15&card_width=445&theme=cobalt">
 </div>
 </br>
 <hr>
