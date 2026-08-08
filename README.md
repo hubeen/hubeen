@@ -1,36 +1,60 @@
-### Hi there 👋
-</br>
-</br>
-<div align="center" style="width: 300px; height: 150px; object-fit: cover;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hubeen&show_icons=true&theme=cobalt&border_radius=15"></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubeen&layout=compact&border_radius=15&card_width=445&theme=cobalt">
-</div>
-</br>
-<hr>
-</br>
-<h3 align="center">🌈 Follow Me 🌈</h3></br>
 <p align="center">
-  <a href="mailto:mhubeen@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhubeen@gmail.com"></a>
-  <a href="https://blog.hubeen.kr"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&link=https://blog.hubeen.kr/"></a>
-  <a href="https://www.facebook.com/mhubeen"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mhubeen"></a>
-  <a href="https://www.instagram.com/hubeen98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hubeen98/"></a>&nbsp
+  <img src="./profile/banner.svg" alt="HUBEEN — Small tools, practical software, and curious experiments" width="100%">
 </p>
-</br>
-<hr>
-</br>
-<img src="https://github.com/hubeen/hubeen/blob/output/github-contribution-grid-snake.svg">
 
-<!--
-**hubeen/hubeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://hubeen.kr"><img src="https://img.shields.io/badge/web-hubeen.kr-243B53?style=flat-square" alt="Website"></a>
+  <a href="https://blog.hubeen.kr"><img src="https://img.shields.io/badge/blog-tech_notes-243B53?style=flat-square" alt="Tech blog"></a>
+  <a href="mailto:mhubeen@gmail.com"><img src="https://img.shields.io/badge/email-say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am happiest when I am building software. I enjoy working with people, learning unfamiliar things, and turning a blank page into something useful.
+
+My roots are in **security and systems**—CTFs, reversing, forensics, and web security—and I now build across web, apps, automation, and macOS. I care as much about the process of creating together as the finished product.
+
+- Led **NIMDA SECURITY**, Kongju National University's security club
+- Speaker at **Hacking Camp**, **NIMDA SECURITY**, and the Korea Open Source Software Conference
+- Developer of **[Dual Number Helper](https://play.google.com/store/apps/details?id=kr.hubeen.dualnumberhelper)**, an Android app that automatically applies Korean carriers' dual-number dialing rules
+
+### Currently building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Dual KakaoTalk for macOS](https://github.com/hubeen/dual-kakaotalk-macos)
+
+Run personal and work KakaoTalk side by side, with locally derived green icons and no bundled Kakao assets.
+
+`Swift` `macOS` `CLI`
+
+</td>
+<td width="50%" valign="top">
+
+#### [Capsomnia](https://github.com/hubeen/Capsomnia)
+
+Turn Caps Lock into a physical keep-awake switch for closed-lid MacBook work.
+
+`Swift` `AppKit` `macOS`
+
+</td>
+</tr>
+</table>
+
+### Languages & interests
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Web](https://img.shields.io/badge/Web-243B53?style=flat-square&logo=googlechrome&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+`Pwnable` `Reversing` `Forensics` `Web Security` `Open Source`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hubeen/hubeen/output/github-contribution-grid-snake.svg" alt="Contribution graph animation" width="100%">
+</p>
